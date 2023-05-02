@@ -5,13 +5,15 @@ def print_hello():
     foods = [
         'Spagetti',
         'Pizza',
-	'bibimbob'
+	'bibimbob',
+	'hamberger'
     ] # w/o trailing comma
     names = [
         'John',
         'Jane',
         'Gil-dong',
 	'Dong-eun',
+	'Yeon-jin',
     ] # w/ trailing comma
     for f_name in names:
         print(f'hello, {f_name}')
