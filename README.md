@@ -18,6 +18,8 @@ Abstract : This project is to practice git.
 % vi README.md
 ```
 
+Now, I am doing unstaging
+
 ## How to start
 
 ```python
